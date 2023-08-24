@@ -1,7 +1,7 @@
 
 #variables
 $regionalsettingsURL = "https://raw.githubusercontent.com/itsocamex/AZURE_XML/main/ES_Region.xml"
-$RegionalSettings = "D:\ES_Region.xml"
+$RegionalSettings = "C:\Temp\ES_Region.xml"
 
 
 #downdload regional settings file
