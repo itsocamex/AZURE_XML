@@ -19,7 +19,7 @@
 </gs:MUILanguagePreferences>
 <!-- input preferences -->
 <gs:InputPreferences>
-    <!--en-AU-->
+    <!--es-ES-->
     <gs:InputLanguageID Action="add" ID="0C0A:0000040A" Default="true"/> 
 </gs:InputPreferences>
 </gs:GlobalizationServices>
