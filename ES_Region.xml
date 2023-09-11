@@ -14,7 +14,7 @@
     <gs:GeoID Value="217"/> 
 </gs:LocationPreferences>
 <gs:MUILanguagePreferences>
-	<gs:MUILanguage Value="en-US"/>
+	<gs:MUILanguage Value="es-ES"/>
 	<gs:MUIFallback Value="en-US"/>
 </gs:MUILanguagePreferences>
 <!-- input preferences -->
