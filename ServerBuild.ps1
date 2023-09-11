@@ -8,6 +8,8 @@ $RegionalSettings = "C:\Temp\ES_Region.xml"
 $webclient = New-Object System.Net.WebClient
 $webclient.DownloadFile($regionalsettingsURL,$RegionalSettings)
 
+#Install Language 
+Install-Language es-ES -CopyToSettings
 
 # Set Locale, language etc. 
 & $env:SystemRoot\System32\control.exe "intl.cpl,,/f:`"$RegionalSettings`""
