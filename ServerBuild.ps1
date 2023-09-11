@@ -14,7 +14,7 @@ $webclient.DownloadFile($regionalsettingsURL,$RegionalSettings)
 
 # Set languages/culture. Not needed perse.
 Set-WinSystemLocale es-ES
-Set-WinUserLanguageList -LanguageList en-US -Force
+Set-WinUserLanguageList -LanguageList es-ES -Force
 Set-Culture -CultureInfo es-ES
 Set-WinHomeLocation -GeoId 217
 Set-TimeZone -Name "Romance Standard Time"
