@@ -16,7 +16,7 @@ Install-Language es-ES -CopyToSettings
 
 # Set languages/culture. Not needed perse.
 Set-WinSystemLocale es-ES
-Set-WinUserLanguageList -LanguageList es-ES -Force
+Set-WinUserLanguageList es-ES -Force
 Set-Culture -CultureInfo es-ES
 Set-WinHomeLocation -GeoId 217
 Set-TimeZone -Name "Romance Standard Time"
